@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.DragImage.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.DragnDrop.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.HeaderPopup.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDR.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.DataObject.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Users\nekit\Desktop\C++\RAD projects\HistoryProject.cbproj=C:\Users\nekit\Desktop\C++\RAD projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDR.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Types.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\History</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\HistoryUnit.cpp=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Utils.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.dfm=C:\Users\nekit\Desktop\C++\RAD projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\nekit\Desktop\C++\sqlite-amalgamation-3450300\sqlite-amalgamation-3450300\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\HistoryUnit.dfm=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,=C:\Users\nekit\Desktop\C++\RAD projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Accessibility.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\Users\nekit\Desktop\C++\sqlite-amalgamation-3450300\sqlite-amalgamation-3450300\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesReg.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.731,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Actions.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.ClipBoard.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Header.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.StyleHooks.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.EditLink.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.cpp=C:\Users\nekit\Desktop\C++\RAD projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Classes.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDD.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.AccessibilityFactory.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\HistoryProjectPCH2.h=C:\Users\nekit\Desktop\C++\RAD projects\HistoryProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDD.bpi</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Colors.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,=C:\Users\nekit\Desktop\C++\RAD projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDD.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\HistoryUnit.h=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\nekit\Desktop\C++\RAD projects\HistoryProjectPCH1.h=C:\Users\nekit\Desktop\C++\RAD projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\HistoryProject.cbproj=C:\Users\nekit\Desktop\C++\RAD projects\HistoryProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.DrawTree.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.Export.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTrees.WorkerThread.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Unit2.h=C:\Users\nekit\Desktop\C++\RAD projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,=C:\Users\nekit\Desktop\C++\RAD projects\NewProj\Packages\11AndAbove\cpp\Win32\Debug\VirtualTreesDR.bpi</Transaction>
+  </Transactions>
+</BorlandProject>

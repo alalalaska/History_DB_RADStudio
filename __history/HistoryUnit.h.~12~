@@ -1,0 +1,41 @@
+//---------------------------------------------------------------------------
+
+#ifndef HistoryUnitH
+#define HistoryUnitH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include "VirtualTrees.hpp"
+#include <Vcl.Dialogs.hpp>
+//---------------------------------------------------------------------------
+class TMainForm : public TForm
+{
+__published:	// IDE-managed Components
+	TVirtualStringTree *VirtualStringTree;
+	TOpenDialog *OpenHistoryDialog;
+	TButton *OpenHistoryButton;
+	TLabel *infoLabel;
+	TButton *DeleteRecordButton;
+	void __fastcall OpenHistoryButtonClick(TObject *Sender);
+	void __fastcall Text(TBaseVirtualTree *Sender, PVirtualNode Node, TColumnIndex Column,
+          TVSTTextType TextType, UnicodeString &CellText);
+private:	// User declarations
+    bool OpenDatabase(const WCHAR *filename);
+public:		// User declarations
+	__fastcall TMainForm(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TMainForm *MainForm;
+//---------------------------------------------------------------------------
+
+typedef struct
+{
+	ULONGLONG Id;
+	UnicodeString URL;
+	UnicodeString Title;
+	ULONGLONG last_visit_time;
+} NodeStruct;
+
+#endif
